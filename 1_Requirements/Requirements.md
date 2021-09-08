@@ -3,6 +3,8 @@
 ## Introduction
 In this mini project i have created a TIC TAC TOE game with the help of C language. This game having two options, One,you can play the game along with the computer or you can also play this game along with your friend. The player1 chooses ‘O’ and the other ‘X’ to mark their respective cells. The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).If no one wins, then the game is said to be draw ,When 3X's or 3O's matches then the respective player declared as winner.
 
+![tic_tac_toe](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/blob/main/6_ImagesAndVideos/Input_and_output_images/tic_tac_toe_image.png)
+
 ## Objective
 The main objectives of this project are: 
 * Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
