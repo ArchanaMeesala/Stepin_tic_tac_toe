@@ -20,7 +20,7 @@ The main objectives of this project are:
 * This game displays wheather the player won the game or lost the game, and also display if it is draw.
 
 ## SWOT ANALYSIS
-![swort]()
+![swort](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/blob/main/6_ImagesAndVideos/Input_and_output_images/SWORT.png)
 
 
 ## **4 W's and 1 H**
