@@ -1,7 +1,18 @@
 ﻿## **Requirements**
 
 ## Introduction
-In this mini project i have created a TIC TAC TOE game with the help of C language. This game having two options, One,you can play the game along with the computer or you can also play this game along with your friend. The player1 chooses ‘O’ and the other ‘X’ to mark their respective cells. The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).If no one wins, then the game is said to be draw ,When 3X's or 3O's matches then the respective player declared as winner.
+In this mini project i have created a TIC TAC TOE game with the help of C language. This game having two options, One,you can play the game along with the computer or you can also play this game along with your friend. 
+
+
+Tic-Tac -Toe (along with a lot of other games) involves looking ahead and trying to figure out what the person playing against you might do next.
+The game is to be played between two people (in this program between HUMAN and COMPUTER).
+One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
+The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
+If no one wins, then the game is said to be draw
+
+
+# TIC TAC TOE 
+![tic_tac_toe](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/blob/main/6_ImagesAndVideos/Input_and_output_images/tic_tac_toe_image.png)
 
 ## Objective
 The main objectives of this project are: 
@@ -9,7 +20,7 @@ The main objectives of this project are:
 * This game displays wheather the player won the game or lost the game, and also display if it is draw.
 
 ## SWOT ANALYSIS
-![swort](http://C:/Users/Archana/Desktop/SWOT-ANALYSIS.html)
+![swort](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/blob/main/6_ImagesAndVideos/Input_and_output_images/SWORT.png)
 
 
 ## **4 W's and 1 H**
