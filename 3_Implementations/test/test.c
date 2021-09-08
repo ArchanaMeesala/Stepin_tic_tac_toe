@@ -1,9 +1,7 @@
 #include "unity.h"
 #include "game.h"
 
-
 #define PROJECT_NAME    "TIC TAC TOE"
-
 
 void setUp()
 {
