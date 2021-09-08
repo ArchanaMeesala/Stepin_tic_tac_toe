@@ -1,4 +1,4 @@
-﻿## **Requirements**
+﻿## **REQUIREMENTS**
 
 ## Introduction
 In this mini project i have created a TIC TAC TOE game with the help of C language. This game having two options, One,you can play the game along with the computer or you can also play this game along with your friend. 
