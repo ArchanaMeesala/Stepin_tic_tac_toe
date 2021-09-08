@@ -1,5 +1,5 @@
-PROJ_NAME = game
-SRC = main.c good_game.c
+PROJ_NAME = STEPIN_TIC_TAC_TOE
+SRC =  src/good_game.c\
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
@@ -14,10 +14,10 @@ else
    endif
 endif
 
-build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+all:
+	gcc main.c $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
-run: build
+run: all
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 clean:
