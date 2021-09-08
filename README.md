@@ -37,4 +37,4 @@ Tic Tac Toe's simple rules are very easy to decompose into small, discrete funct
 ![Code inspector codequality](https://www.code-inspector.com/project/27852/score/svg)
 ![Code inspector Grade](https://www.code-inspector.com/project/27852/status/svg)
 ![Codacy Badge](https://app.codacy.com/project/badge/Grade/2a216dba0e4e40cfa0529e8db328cc76)
-![CI](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/actions/workflows/main.yml/badge.svg)]
+![CI](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/actions/workflows/main.yml/badge.svg)
