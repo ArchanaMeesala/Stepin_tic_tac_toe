@@ -20,7 +20,7 @@ The main objectives of this project are:
 * This game displays wheather the player won the game or lost the game, and also display if it is draw.
 
 ## SWOT ANALYSIS
-![swort](http://C:/Users/Archana/Desktop/SWOT-ANALYSIS.html)
+![swort]()
 
 
 ## **4 W's and 1 H**
