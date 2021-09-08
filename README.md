@@ -32,7 +32,8 @@ Tic Tac Toe's simple rules are very easy to decompose into small, discrete funct
 
 4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
-
+# BADGES
+[![Git Inspector](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ArchanaMeesala/Stepin_tic_tac_toe/actions/workflows/git_inspector.yml)
 ![Code inspector codequality](https://www.code-inspector.com/project/27852/score/svg)
 ![Code inspector Grade](https://www.code-inspector.com/project/27852/status/svg)
-![Codacy]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/2a216dba0e4e40cfa0529e8db328cc76)](https://www.codacy.com/gh/ArchanaMeesala/Stepin_tic_tac_toe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArchanaMeesala/Stepin_tic_tac_toe&amp;utm_campaign=Badge_Grade)
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/2a216dba0e4e40cfa0529e8db328cc76)
